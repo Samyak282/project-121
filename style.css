@@ -1,0 +1,34 @@
+p{
+    color: black;
+    letter-spacing: 2px;
+    font-size:15px;
+    font-weight: bolder;
+}
+span{
+    letter-spacing: 2px;
+}
+.mobilenet{
+    letter-spacing: 2px;
+}
+.google_lens{
+    letter-spacing: 2px;
+}
+.bottom{
+    color:red;
+    position:fixed;
+    bottom:0;
+}
+img{
+    margin-top: 10px;
+    margin-bottom:10px;
+    height:300px;
+    border-radius: 10px;
+}
+body{
+    background-color: yellow;
+}
+b{
+    color:purple;
+    font-style: italic;
+    font-weight: bolder;
+}
